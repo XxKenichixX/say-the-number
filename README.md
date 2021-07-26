@@ -11,7 +11,7 @@
 
 ### LOG 1.50
 
-- Correceted some variables names
+- Corrected some variables names
 
 
 > CODER: Kenichi
